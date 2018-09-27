@@ -10,3 +10,6 @@ CNAME_LOGS
 config.js
 config.json
 .env
+
+# Enmap
+data/
