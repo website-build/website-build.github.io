@@ -1,0 +1,12 @@
+# Modules
+node_modules/
+package-lock.json
+
+# Domain
+CNAME
+CNAME_LOGS
+
+# Configuraion
+config.js
+config.json
+.env
